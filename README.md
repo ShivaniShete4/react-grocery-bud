@@ -12,6 +12,6 @@ The project provides the functions of:
 
 5. To search the item.
 
-Technologies used: HTML, CSS, React JS.
+#### Technologies used: HTML, CSS, React JS.
 
-This project is guided by John Smilga.
+###### guided by John Smilga.
